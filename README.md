@@ -1,2 +1,1 @@
-# mi-primer-repositorio
-este es un repositorio de prueba
+esta es una prueba de repositorio
